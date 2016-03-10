@@ -1,0 +1,22 @@
+/*Assignment1.CSS*/
+ body
+ {
+ background: wheat;
+ }
+ 
+.formal
+ {
+ font-size: 24px; 
+ font-style: arial;
+ color: gray;
+ font-weight: bold;
+ }
+ 
+.list
+ {
+ font-family: "Times";
+ font-size: 20px; 
+ font-style: italic;
+ color: blue;
+ }
+ 
