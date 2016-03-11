@@ -1,0 +1,35 @@
+/*assignment_6_wingo*/
+
+head,body
+{
+font-family:arial;
+Background: linear-gradient(white,green);
+}
+
+h1
+{
+border: 2px solid black;
+width: 290px;
+}
+
+h2
+{
+height: 50%;
+}
+
+table
+{
+height: 10%;
+width:65%;
+}
+
+fieldset
+{
+display: inline-block;
+}
+
+span
+{
+color:red;
+}
+
