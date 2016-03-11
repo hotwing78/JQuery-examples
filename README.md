@@ -1,4 +1,4 @@
-# JQuery-class
+# JQuery-examples
 
 The files I created during my JQuery classes at TTC
-I will add more as my knowledge expands
+Some Work with forms and a little animation.
