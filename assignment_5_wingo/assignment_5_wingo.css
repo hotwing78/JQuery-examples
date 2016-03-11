@@ -1,0 +1,71 @@
+/*assignment_5_wingo.css*/
+
+body
+{
+background-image: url("flag.jpg");
+background-size: cover;
+}
+
+#abe
+{
+height: 100px;
+width: 200px;
+background-image: url("abelincoln_small.jpg");
+background-size: cover;
+position:absolute;
+}
+
+#george
+{
+height: 100px;
+width: 200px;
+background-image: url("georgewashington_small.png");
+background-size: cover;
+position:absolute;
+}
+
+#teddy
+{
+height: 100px;
+width: 200px;
+background-image: url("tedroosevelt_small.jpg");
+background-size: cover;
+position:absolute;
+}
+
+#bios
+{
+width: 400px;
+height: 200px;
+font-family: arial;
+font-size: 15px;
+position:absolute;
+}
+
+#menuReturn
+{
+position:absolute;
+font:20px,bold;
+color:Red;
+}
+
+.red
+{
+background-color:red;
+border : 10px solid blue;
+color:white;
+}
+
+.white
+{
+background-color:white;
+border:10px solid red;
+color:blue;
+}
+
+.blue
+{
+ background-color:blue;
+ border:10px solid white;
+ color:red;
+}
