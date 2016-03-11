@@ -1,0 +1,79 @@
+/*)assignment_3.css*/
+
+body
+{
+background: tan;
+}
+
+div
+{
+content : 80 px;
+}
+
+ol li:first-child
+{
+color : red;
+}
+
+table
+{
+width: 400px;
+}
+
+ol
+{
+font-style: arial;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+ol li:last-child
+{
+color : blue;
+}
+
+th
+{
+text-align: left;
+}
+.header
+{
+background-color: #00004C;
+color: white;
+}
+
+.courses
+{
+background-color : green;
+}
+
+.enclose
+{
+width : 500px;
+border: 3px solid red;
+}
+
+.altrow
+{
+background-color : gray;
+}
+
+ol li:nth-child(4)
+{
+color : green;
+}
+
+ol li:not(:nth-child(5))
+{
+font-style : italic;
+}
+
+.double
+{
+width: 404px;
+
+height: 500px;
+}

@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>Assignment_2</title>
+	<link  rel="stylesheet" type: "text/css" href="assignment_2.css"/>	
+	<script src="jquery-1.11.2.min.js"></script>
+    <script src="assignment_2.js"></script>
+	
+	
+</head>
+<body>
+
+<div id="letters">
+<script>
+/*.getElementById("letters").innerHTML =
+alphabet.valueOf(); 
+How I would display it*/
+var i = 0;
+var h = alphabet.length;
+var text = " ";
+while (i < h) 
+{
+    text += (alphabet[i]);
+    i++;
+}
+document.getElementById("letters").innerHTML =
+text;
+</script>
+</div>
+
+<div id="calculation">
+<script>
+var height = prompt("What is the rectangles height?");
+var width = prompt("What is the rectangles width");
+document.getElementById("calculation").innerHTML =
+"The area or the rectangle is "+ (area(height,width));
+</script>
+</div>
+
+</body>
+</html>
+	

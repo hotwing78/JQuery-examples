@@ -1,0 +1,23 @@
+/*assignment_2.css*/
+body
+{
+background-color: gray
+}
+
+.Christmas
+{
+font-size: 28px;
+font-weight: bold;
+font-style: arial;
+color: red;
+background-color: green;
+}
+
+.Easter
+{
+font-family: "times";
+font-style: arial;
+font-size: 28px;
+color: pink;
+background: purple;
+}
